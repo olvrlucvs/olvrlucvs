@@ -1,6 +1,6 @@
 ## Hello! I'm Lucas Oliveira
 
-### Currently studying:
+### Currently studying
 
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
